@@ -8,4 +8,4 @@ Following models have been implemented:
 - Nonnegative Matrix Factorization (NMF)
 - LGK Bidiagonalization
 
-A library called "[utils.py](https://github.com/PouyaRepos/Information_Retrieval/utils.py)" has been created; for more details about it please refre to [library description](https://github.com/PouyaRepos/Information_Retrieval/library_description.pdf).
+A library called "[utils.py](https://github.com/PouyaRepos/Information_Retrieval/utils.py)" has been created; for having an overview about it please refre to [library description](https://github.com/PouyaRepos/Information_Retrieval/library_description.pdf).
